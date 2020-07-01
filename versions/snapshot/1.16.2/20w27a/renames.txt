@@ -1,0 +1,20 @@
+# First pass
+net/minecraft/client/gui/screen/PackScreen$C_1018_a net/minecraft/client/gui/screen/PackScreen$PackDirectoryWatcher
+net/minecraft/item/ItemStack$C_1014_a net/minecraft/item/ItemStack$TooltipDisplayFlags
+net/minecraft/src/C_1000_ry net/minecraft/network/play/client/CUpdateRecipeBookStatusPacket
+net/minecraft/src/C_1001_rz net/minecraft/network/play/client/CMarkRecipeSeenPacket
+net/minecraft/src/C_1002_acn net/minecraft/item/crafting/RecipeBookStatus
+net/minecraft/src/C_1002_acn$C_1003_a net/minecraft/item/crafting/RecipeBookStatus$CategoryStatus
+net/minecraft/src/C_1004_add net/minecraft/tags/TagRegistryManager
+net/minecraft/src/C_1005_adg net/minecraft/tags/ITagCollectionSupplier
+net/minecraft/src/C_1006_adh net/minecraft/tags/TagCollectionReader
+net/minecraft/src/C_1007_alq net/minecraft/util/datafix/versions/V2568
+net/minecraft/src/C_1008_axl net/minecraft/entity/ai/brain/sensor/PiglinBruteSpecificSensor
+net/minecraft/src/C_1009_bdf net/minecraft/entity/monster/piglin/AbstractPiglinEntity
+net/minecraft/src/C_1010_bdi net/minecraft/entity/monster/piglin/PiglinMode
+net/minecraft/src/C_1011_bdj net/minecraft/entity/monster/piglin/PiglinBruteEntity
+net/minecraft/src/C_1012_bdk net/minecraft/entity/monster/piglin/PiglinBruteBrain
+net/minecraft/src/C_1013_bhx net/minecraft/item/crafting/RecipeBookOwner
+net/minecraft/src/C_1015_bpu net/minecraft/world/IWorldStuffReader
+net/minecraft/src/C_1016_bqq net/minecraft/world/IDayTimeReader
+net/minecraft/src/C_1017_bqy net/minecraft/world/IServerWorld

@@ -1,0 +1,20 @@
+net/minecraft/client/gui/screen/PackScreen$C_1018_a
+net/minecraft/item/ItemStack$C_1014_a
+net/minecraft/src/C_1000_ry
+net/minecraft/src/C_1001_rz
+net/minecraft/src/C_1002_acn
+net/minecraft/src/C_1002_acn$C_1003_a
+net/minecraft/src/C_1004_add
+net/minecraft/src/C_1005_adg
+net/minecraft/src/C_1006_adh
+net/minecraft/src/C_1007_alq
+net/minecraft/src/C_1008_axl
+net/minecraft/src/C_1009_bdf
+net/minecraft/src/C_1010_bdi
+net/minecraft/src/C_1011_bdj
+net/minecraft/src/C_1012_bdk
+net/minecraft/src/C_1013_bhx
+net/minecraft/src/C_1015_bpu
+net/minecraft/src/C_1016_bqq
+net/minecraft/src/C_1017_bqy
+Base Version: 1.16.1  
